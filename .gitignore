@@ -1,0 +1,24 @@
+# Eclipse related
+bin/
+.classpath
+.metadata/
+.project
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+.settings/
+launchConfigurations/
+
+# Gradle related
+build/
+.gradle/
+
+# Java related
+*.class
+
+# Backup / Temporaly related
+*.swp
+*.bak
+
+# Mac user related
+.DS_Store
